@@ -14,4 +14,4 @@ Projeto desenvolvido como parte da atividade **APIS DE NAVEGADOR**, demonstrando
 - Efeito sonoro via Web Audio API
   
 🎥 **Demonstração do Projeto**
-[Assista ao vídeo](./animacao.mp4)
+![Demonstração](https://github.com/user-attachments/assets/01361472-3f92-4707-99cb-519adcbe751f)
